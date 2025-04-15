@@ -85,20 +85,11 @@ Me chamo Ana Jackeline Alves da Silva, sou natural do Rio Grande do norte. Atual
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Ana-Jackeline&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Jackeline&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sAna-Jackeline&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Ana-Jackeline&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
-</p>
+
