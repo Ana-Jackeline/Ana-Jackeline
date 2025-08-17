@@ -1,6 +1,6 @@
 # 👩🏻‍💻Ana Jackeline
 
-Me chamo Ana Jackeline Alves da Silva, sou natural do Rio Grande do norte. Atualmente, Sou graduanda em Bacharelado Interdiciplinar em Ciência e Tecnologia pela UFERSA e estou em transição para o curso de Engenharia da Computação. Sou apaixonada por tecnologia e compartilho meu conhecimento e minhas conquitas através do meu LinkeIdn "[Ana Jackeline](https://www.linkedin.com/in/ana-jackeline/)".
+Me chamo Ana Jackeline Alves da Silva, sou natural do Rio Grande do norte. Atualmente, Sou graduanda em Bacharelado em Engenharia da Computação pela UFERSA. Sou apaixonada por tecnologia e compartilho meu conhecimento e minhas conquitas através do meu LinkeIdn "[Ana Jackeline](https://www.linkedin.com/in/ana-jackeline/)".
 <p align="left">
     </a> 
     <a href="https://github.com/Ana-Jackeline?tab=repositories&sort=stargazers">
