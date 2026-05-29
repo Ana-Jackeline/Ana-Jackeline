@@ -115,7 +115,7 @@ Me chamo Ana Jackeline Alves da Silva, sou natural do Rio Grande do norte. Atual
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"           
  />
-
+</div>
 
 ## 📊 Estatísticas
 
