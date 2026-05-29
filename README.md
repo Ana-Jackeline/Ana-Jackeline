@@ -119,28 +119,21 @@ Me chamo Ana Jackeline Alves da Silva, sou natural do Rio Grande do norte. Atual
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<div>
-<a href="https://github.com/Ana-Jackeline">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Jackeline&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Ana-Jackeline&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</a>
-</div>
+---
 
 ## 📊 Estatísticas
 
 <div align="center">
+  <a href="https://github.com/Ana-Jackeline">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Ana-Jackeline&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=Ana-Jackeline&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Jackeline&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Jackeline&layout=compact&langs_count=7&theme=dracula"/>
 
+  </a>
 </div>
-
 ---
 
 ## 🔥 Sequência de contribuições
@@ -148,22 +141,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Jackelin
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Ana-Jackeline&theme=dracula"/>
-
-</div>
-
----
-
-## 🐍 Snake das contribuições
-
-![Snake animation](https://github.com/Ana-Jackeline/Ana-Jackeline/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🏆 Troféus GitHub
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ana-Jackeline&theme=dracula&row=1&column=6"/>
 
 </div>
 
