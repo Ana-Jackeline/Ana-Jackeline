@@ -21,7 +21,7 @@ Me chamo Ana Jackeline Alves da Silva, sou natural do Rio Grande do norte. Atual
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -116,8 +116,9 @@ Me chamo Ana Jackeline Alves da Silva, sou natural do Rio Grande do norte. Atual
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"           
  />
 </div>
+---
 
-## 📊 Estatísticas
+###  Estatísticas
 
 <div align="center">
   <a href="https://github.com/Ana-Jackeline">
@@ -132,7 +133,7 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=A
 </div>
 ---
 
-## 🔥 Sequência de contribuições
+## Sequência de contribuições
 
 <div align="center">
 
@@ -142,7 +143,7 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=A
 
 ---
 
-## 📈 Gráfico de atividade
+## Gráfico de atividade
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ana-Jackeline&theme=dracula)](https://github.com/Ana-Jackeline)
 
